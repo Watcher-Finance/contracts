@@ -24,6 +24,9 @@ Sentinel is a pioneering platform revolutionizing Web3 funding and feedback mech
 
 To start using the Sentinel app, visit our [website](https://watcher.finance/) or go directly to the [Sentinel app](https://sentinel.watcher.finance).
 
+## Contract Address  
+
+[0x06E480C3d68E3792683e48ab1B60BF3637A40706](https://ozonescan.io/address/0x06E480C3d68E3792683e48ab1B60BF3637A40706/contracts#address-tabs)
 
 ## Connect with Us
 
@@ -33,7 +36,6 @@ Stay connected and follow our latest updates on social media:
 - [Discord](https://discord.com/invite/XtJySJQwB6)
 - [X (formerly Twitter)](https://x.com/WAFI_Sentinel)
 - [Telegram](https://t.me/watcherfinance_official)
-
 
 ## Contributing
 
